@@ -1,6 +1,6 @@
 你好世界！
 
-[WoW Cool](https://jackwiy.com/hello-world/wow.cool) 
+[So Cool](https://hello-world.cool/so.cool) 
 ```
-https://jackwiy.com/hello-world/wow.cool
+https://hello-world.cool/so.cool
 ```
