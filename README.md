@@ -7,5 +7,5 @@ https://hello-world.cool/livetv.co
 
 [IP TV](https://hello-world.cool/iptv.co) 
 ```
-https://hello-world.cool/wow.co
+https://hello-world.cool/iptv.co
 ```
