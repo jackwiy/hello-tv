@@ -1,11 +1,11 @@
-你好世界！
+你好，TV！
 
-[So Cool](https://hello-world.cool/so.cool) 
+[LIVE TV](https://hello-world.cool/livetv.co) 
 ```
-https://hello-world.cool/so.cool
+https://hello-world.cool/livetv.co
 ```
 
-[Wow Cool](https://hello-world.cool/wow.cool) 
+[IP TV](https://hello-world.cool/iptv.co) 
 ```
-https://hello-world.cool/wow.cool
+https://hello-world.cool/wow.co
 ```
